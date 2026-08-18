@@ -1,11 +1,12 @@
 {
   "meta": {
-    "name": "simpleGarageDoor",
+    "name": "simpleTrafficLight",
     "type": "plc-project"
   },
   "data": {
-    "dataTypes": [],
     "pous": [],
+    "dataTypes": [],
+    "libraries": [],
     "configuration": {
       "resource": {
         "tasks": [
@@ -25,7 +26,6 @@
         ],
         "globalVariables": []
       }
-    },
-    "libraries": []
+    }
   }
 }

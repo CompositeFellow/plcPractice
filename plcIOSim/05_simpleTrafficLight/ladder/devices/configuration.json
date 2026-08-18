@@ -3,8 +3,6 @@
   "communicationPort": "",
   "runtimeIpAddress": "",
   "vendorScreenData": {},
-  "vendorScreenDataByBoard": {
-    "OpenPLC Simulator": {}
-  },
+  "vendorScreenDataByBoard": {},
   "selectedPlatformOptions": {}
 }
